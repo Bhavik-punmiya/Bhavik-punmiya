@@ -4,7 +4,7 @@
 
 ###
 
-<h6 align="left">Hey I am Bhavik Punmiya and, I am a Second year CSE student <br><br>⛓️ As a passionate full-stack blockchain developer 💻, I'm dedicated to continuously learning and applying my knowledge to projects<br><br>🌱 Currently, I'm on an exciting journey into the world of Machine Learning. Exploring data-driven solutions and predictive models has opened up a new realm of possibilities for me, and I'm eager to apply ML concepts to my blockchain projects.<br><br>🚀 I'm always on the lookout for interesting collaborations and open-source contributions within the blockchain and ML communities. If you have a project or idea you'd like to discuss, feel free to reach out! Let's build the future together.</h6>
+Hey I am Bhavik Punmiya and, I am a Second year CSE student <br><br>⛓️ As a passionate full-stack blockchain developer 💻, I'm dedicated to continuously learning and applying my knowledge to projects<br><br>🌱 Currently, I'm on an exciting journey into the world of Machine Learning. Exploring data-driven solutions and predictive models has opened up a new realm of possibilities for me, and I'm eager to apply ML concepts to my blockchain projects.<br><br>🚀 I'm always on the lookout for interesting collaborations and open-source contributions within the blockchain and ML communities. If you have a project or idea you'd like to discuss, feel free to reach out! Let's build the future together.
 
 ###
 
