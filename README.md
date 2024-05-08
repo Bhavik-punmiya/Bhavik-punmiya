@@ -88,6 +88,4 @@ Hey I am Bhavik Punmiya and, I am a Second year CSE student <br><br>⛓️ As a 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Bhavik-punmiya/Bhavik-punmiya/output/snake.svg" alt="Snake animation" />
-
 ###
